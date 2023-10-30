@@ -24,7 +24,7 @@ The challenge was to build a responsive layout to show a score summary card comp
 
 <img src="./assets/images/results-summary-mobile-screenshot.jpg" height="350px" />
 
-![Desktop 3 column preview card screenshot](./assets/images/results-summary-desktop-screenshot.jpg)
+![Desktop results summary card screenshot](./assets/images/results-summary-desktop-screenshot.jpg)
 
 ### Links
 
